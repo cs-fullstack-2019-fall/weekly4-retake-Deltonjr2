@@ -1,17 +1,22 @@
 Write in one or more topics for each question using the following topics: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class. If you get any error messages, copy and paste up to three of them in the boxes below.
 
-#1 Topic:_____
+#1 Topic:_variables____
+(Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
+
+Error Messages:
+Traceback (most recent call last):
+  File "pleaselord!.py", line 8, in <module>
+    print(userInput1) + (userInput2)
+TypeError: unsupported operand type(s) for +: 'NoneType' and 'str'
+
+
+
+#2 Topic: Conditional_____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
 
 Error Messages:
 
-
-
-#2 Topic: _____
-(Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
-
-Error Messages:
-
+IndentationError: expected an indented block
 
 
 #3 Topic: _____
